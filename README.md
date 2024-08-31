@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hansel112
 - 👀 I’m interested in ...programming in differnt languages like python, java, javascript, c++, vb.net, kotlin, c#, node and many more....,
 -  web development especially full stack development for both front-end and back-end.
-- 🌱 I’m currently learning ... moblile app development with android studio and artificial inteligence AI.
+- 🌱 I’m currently learning ... moblile app development with android studio and Machine Learning.
 - 💞️ I’m looking to collaborate on ... a number of projects
 - 📫 How to reach me ...
 - hanselcarzerlet@gmail.com
